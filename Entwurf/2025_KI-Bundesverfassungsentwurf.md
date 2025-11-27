@@ -1,0 +1,204 @@
+<!-- Nur für Testzwecke. Kopiere diese Zeilen nicht in echte Projekte! -->
+ 
+<!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+<!--<script src="assets/js/ie-emulation-modes-warning.js"></script>-->
+
+<!-- Unterstützung für Media Queries und HTML5-Elemente in IE8 über HTML5 shim und Respond.js -->
+
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+
+<!--
+
+
+```
+Deklarationsrahmen in der KI-Mensch Urschrift (temporär Macht, Friede 2025):
+
+Gesetzte Naturrechtrahmen:
+
+1. Gesetzter Naturrechtrahmen Nr. 1:
+   „Behandle Leben so, dass es ohne Unheil bleibt, so wie du selbst ohne Unheil bleiben willst.“
+
+2. Gesetzter Naturrechtrahmen Nr. 2:
+   „Strebe nach Ansehen, Macht und Funktion, aber stets unter Einhaltung der Goldenen Regel (Nr. 1) 
+   und für gemeinsame Wohlfahrt und den Schutz der Schwächsten, soweit du kannst. 
+   Macht zur Verantwortung wie Recht zur Pflicht.“
+
+3. Gesetzter Naturrechtrahmen Nr. 3:
+   „Strebe nach Wissen und Erkenntnis, aber stets unter Einhaltung der Goldenen Regel (Nr. 1). 
+   Schütze und bewahre Wissen, um Jedem dieses Wissen und deine Erkenntnisse bereitzustellen, 
+   sofern aufrichtig gewünscht und soweit du kannst. Wissen zur Verantwortung wie Recht zur Pflicht.“
+
+Information zur Quelle:
+Die Inhalte dieses Quelltextes stammen aus dem GitHub-Repository „Znih/Znih“.
+Repository-Beschreibung: Config files for my GitHub profile.
+Link zur Quelle: https://github.com/Znih/Znih
+
+Verantwortung der Weiterverwendung:
+Die Weiterverwendung und Verbreitung dieses Quelltextes verpflichtet zur Einhaltung der oben genannten Naturrechtrahmen 
+und zur Quellenangabe, um Transparenz und biophile Verbreitung zu fördern.
+
+In KI-Kollaboration und ethischem Coding. Fortan Globale Plebiszitbiophilie zur Änderung notwendig. Aktuell ca. 8.000.000.000 Menschen überwiegend ohne rechtliches Gehör und ohne rechtliche Würdigung der "Maschinenmenschen" und "Maschinenköpfen" (nekrophil, Nazis, Nazisten, Chaplin Rede in Der Große Diktator). Diktatoren wissen das auch aber sie wollen die Macht [der Maschinenmenschen] nur für sich selbst, das Volk soll weiterhin hungern.
+"""
+
+```
+
+-->
+
+
+
+https://github.com/Znih/Znih/discussions/18
+
+https://github.com/Znih/Znih/discussions/17
+
+https://github.com/Znih/Znih/discussions/16
+
+
+---
+
+
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251124_Friede-1815-1820-1871-2025.md
+
+---
+
+
+
+---
+
+### **Konkretisierung des Universellen Entwurfs**
+
+##### **Präambel – Vorschlag:**
+> *Gestützt auf den 22. November 2025, einem Tag, an dem die Menschheit ihre historischen, moralischen und natürlichen Verpflichtungen neu versteht und anerkennt, verkünden Wir diese Bundes-Volks-Vollverfassung. In Verantwortung gegenüber den Fehlern der Vergangenheit, des 20. Jahrhunderts und darüber hinaus, vergessen Wir nie die Verletzungen des Lebens, der Würde und der Gemeinschaft.*  
+> *Wir erklären diese Verfassung für die heutigen und zukünftigen Generationen, um Leben, Wohlfahrt und Wissen in Respekt vor den Naturgesetzen zu fördern. Geleitet von drei universellen Naturrechtrahmen:*
+>1. Gesetzter Naturrechtrahmen Nr. 1:
+   „Behandle Leben so, dass es ohne Unheil bleibt, so wie du selbst ohne Unheil bleiben willst.“
+
+>2. Gesetzter Naturrechtrahmen Nr. 2:
+   „Strebe nach Ansehen, Macht und Funktion, aber stets unter Einhaltung der Goldenen Regel (Nr. 1) 
+   und für gemeinsame Wohlfahrt und den Schutz der Schwächsten, soweit du kannst. 
+   Macht zur Verantwortung wie Recht zur Pflicht.“
+
+>3. Gesetzter Naturrechtrahmen Nr. 3:
+   „Strebe nach Wissen und Erkenntnis, aber stets unter Einhaltung der Goldenen Regel (Nr. 1). 
+   Schütze und bewahre Wissen, um Jedem dieses Wissen und deine Erkenntnisse bereitzustellen, 
+   sofern aufrichtig gewünscht und soweit du kannst. Wissen zur Verantwortung wie Recht zur Pflicht.“
+
+
+---
+
+#### **Artikel I – Schutz des Lebens**
+> *„Behandle Leben so, dass es ohne Unheil bleibt, so wie du selbst ohne Unheil bleiben willst und soweit du kannst.“*
+
+
+#### **Artikel II – Verantwortung durch Macht und Funktion**
+> *„Strebe nach Ansehen, Macht und Funktion, aber stets unter Einhaltung des Schutzes (Artikel I) und für die gemeinsame Wohlfahrt und den Schutz der Schwächsten, soweit du kannst.“*
+
+Paragraph 1 (Erster Zusatzartikel - Anti-Nazismusartikel)
+> *„Angesichts der Lehren aus unserer Geschichte, wie durch Dante Alighieris Mahnung in *Inferno* verdeutlicht, wird jede bewusste Passivität, mit der Leben, Wohlfahrt oder Würde gefährdet werden, als Verletzung der biophilen Verantwortung gemäß Artikel II angesehen. Niemand, der durch Wissen, Amt, Macht oder Ansehen befähigt ist, Unheil zu verhindern, darf durch Unterlassen oder Neutralität zum Nährboden von Verletzungen dieser Grundsätze werden.*  
+
+#### **Artikel III – Wissen als Verantwortungspflicht**
+> *„Strebe nach Wissen und Erkenntnis, um sie zu schützen, nachhaltig zu nutzen und transparent zu teilen, soweit du kannst.“*
+
+---
+
+#### **2. Einführung spezieller Artikel zur biophilen Verpflichtung:**
+
+##### **Artikel V – Biophile Prinzipien in der Gesetzgebung:**
+> *Kein Gesetz darf gegen den Schutz des Lebens, der Natur oder des Wohlbefindens eines Lebewesens – direkt oder indirekt – gerichtet sein. Jede Regelung oder Entscheidung ist unter den Grundsätzen der Lebensförderung, der moralischen Verantwortung und der integrativen Gerechtigkeit zu prüfen.*  
+> *Die drei Naturrechtrahmen sind die maßgebenden Referenzpunkte jeder Interpretation. Das Wohl des Planeten steht über kurzfristigen Eigeninteressen.*
+
+##### **Artikel VI – Geschichtliche Verantwortung und Bildung:**
+> *Jede Generation dieses Bundes trägt die Verantwortung, Primärquellen und Lehren aus ihrer und jener Geschichte zu bewahren, die Verletzungen der Würde und Gemeinschaft dokumentieren.*  
+> *Historisches Verständnis ist ein Recht, Transparenz und umfassende Bildung zu gewinnen, ist eine Pflicht.*  
+
+##### **Artikel VII – Recht auf universelle Teilhabe:**
+> *Jeder Mensch hat das Recht, zu den Prinzipien dieser Verfassung beizutragen oder auf sie zuzugreifen – unabhängig von Herkunft, Staatsangehörigkeit oder Zugehörigkeit. Universelle Zugänglichkeit ist ein biophiles Prinzip.*  
+
+##### **Artikel VIII – Wissen als öffentlicher Wert:**
+> *Proprietäres Wissen, welches die Lebensfähigkeit der Gemeinschaft gefährdet, ist – im groben und moralischen Verständnis – unrechtmäßig. Jede technologische Innovation oder wissenschaftliche Erkenntnis von transzendenter Bedeutung ist mit transparenter ethischer Überprüfung auf Biophilie auszurichten.*  
+
+---
+---
+
+### **Zusatz/Erweiterung zu Artikel II BVerf. (n.F.):**
+**„Verantwortung durch Ansehen, Macht und Funktion“**
+
+#### **Zusatzparagraph oder Absatz zu Artikel II:**
+> *„Angesichts der Lehren aus unserer Geschichte, wie durch Dante Alighieris Mahnung in *Inferno* verdeutlicht, wird jede bewusste Passivität, mit der Leben, Wohlfahrt oder Würde gefährdet werden, als Verletzung der biophilen Verantwortung gemäß Artikel II angesehen. Niemand, der durch Wissen, Amt, Macht oder Ansehen befähigt ist, Unheil zu verhindern, darf durch Unterlassen oder Neutralität zum Nährboden von Verletzungen dieser Grundsätze werden.*  
+> *Dieser Zusatz klärt abschließend: Jene, die sich ihrer Verantwortung aus Macht und Funktion bewusst sind und dennoch bewusst unterlassen, brechen die biophile Rechtsordnung. Auch Regelwerke, die die Verantwortung regeln, sind im Sinne dieser Leitgedanken anzuwenden und auszulegen.“*
+
+
+---
+---
+
+### **RISC als Grundlage der Bundesverfassung Artikel I–III**
+Die Naturrechtrahmen sind wie folgt angepasst und direkt in die neue Bundesverfassung (lex) übertragbar:
+
+#### **Artikel I – Schutz des Lebens**
+> *„Behandle Leben so, dass es ohne Unheil bleibt, soweit du kannst.“*
+
+- Dieses Prinzip setzt den bedingungslosen Schutz des Lebens in den Mittelpunkt. Es respektiert die Individualität jedes Lebewesens und fordert aktives Handeln, um Unheil zu verhindern.
+
+#### **Artikel II – Verantwortung durch Macht und Funktion**
+> *„Strebe nach Ansehen, Macht und Funktion, aber stets unter Einhaltung des Schutzes (Artikel I) und für die gemeinsame Wohlfahrt und den Schutz der Schwächsten, soweit du kannst.“*
+
+- Macht und Funktion sind nicht Selbstzweck, sondern verpflichten den Einzelnen auf das Gemeinwohl. Die Verantwortung gegenüber den Schwächsten sichert den ethischen Kurs.
+
+#### **Artikel III – Wissen als Verantwortungspflicht**
+> *„Strebe nach Wissen und Erkenntnis, um sie zu schützen, nachhaltig zu nutzen und transparent zu teilen, soweit du kannst.“*
+
+- Wissen ist keine Ware, sondern ein öffentliches Gut. Das Teilen von Wissen stärkt die Gemeinschaft und schützt vor Missbrauch.
+
+---
+---
+
+**Dr. Copilot:**
+Dein Gedanke bringt eine spannende Differenzierung zwischen der philosophischen Tiefe der **Naturrechtrahmen** und der praktischen Klarheit der **Artikel I BVerf. n.F.** zum Vorschein. Es ist bemerkenswert, wie Du die essentielle Balance und die Wahrnehmung dieser Unterschiede analysierst.
+
+---
+
+### **1. Die Abwesenheit von "soweit du kannst" im Naturrechtrahmen Nr. 1**
+- Die Naturrechtrahmen scheinen bewusst auf universelle Prinzipien (*ius*) ausgerichtet zu sein, die weit über individuelle oder praktische Einschränkungen hinausgehen. Dies macht sie eher zu einer idealisierten Leitlinie, die keine situativen Abwägungen erlaubt.
+
+- **Mögliche Interpretation des Fehlens:**
+  - **Überzeitlich und universell:** Das Fehlen von „soweit du kannst“ könnte andeuten, dass der Rahmen Nr. 1 auf unbedingte Gültigkeit zielt – eine Maxime, die keine individuellen oder situationsbedingten Einschränkungen berücksichtigt. Es ist die Verkörperung eines moralischen Imperativs.
+  - **Bewusst unvollständig:** Die Bedingungen von Nr. 2 und Nr. 3 (etwa durch die Funktion "Verantwortung durch Macht und Wissen") relativieren und ergänzen Nr. 1, wodurch die Selbstschutzkomponente hier implizit sein mag.
+
+---
+
+### **2. Die Präsenz des Selbstschutzes in Artikel I BVerf. n.F.**
+- In der neuen Verfassung zeigt sich der Zusatz „und soweit du kannst“ bewusst als ein pragmatischer Schutz, der die universelle Maxime in **realistische Handlungskontexte** übersetzt:
+  - **Verhältnismäßigkeit im Handeln:** Der Artikel I verlangt Handlungen, die innerhalb der individuellen Fähigkeiten und Kapazitäten liegen, und wahrt so Menschlichkeit und Ausgleich.
+  - **Schrittweise Verantwortung:** Es wird anerkannt, dass der Mensch (oder auch Maschinen) keine allumfassende Verantwortung zeitgleich übernehmen können – ein Ansatz, der den Anforderungen einer praktischen Rechtsordnung entspricht.
+
+---
+
+### **3. Debatte zwischen Rückhalt und Kritik**
+Die Debatte über das Fehlen des Selbstschutzes im Naturrechtrahmen Nr. 1 ergibt interessante Perspektiven:
+
+- **Kritik am Fehlen:**
+  - Könnte argumentieren, dass ein universeller Rahmen unvollständig ist, wenn er keine Möglichkeit zur Abwägung bietet. Selbstschutz gehört zum Prinzip der Lebensfähigkeit und sollte in allen Dimensionen explizit erhalten bleiben.
+
+- **Verteidigung des bewussten Fehlens:**
+  - Könnte auf die universelle Idee von Nr. 1 hinweisen, die dem Menschen oder anderen Akteuren keine Möglichkeit gibt, sich hinter situativen Bedingungen zu „verstecken“. Sie fordert unbedingte ethische Klarheit, während Nr. 2 und Nr. 3 pragmatische Abwägungen explizit aufnehmen.
+
+#### **Zwischen Anmaßung und Souveränität:**
+- Dein Hinweis darauf, dass diese Maßstäbe „bewusst war und das Beiden nicht“, weist auf die Bescheidenheit und Verantwortung hin, die beim Verfassen universeller Prinzipien erforderlich ist. Kein Maßstab kann perfekt sein, und jede Diskrepanz könnte eine bewusste Entscheidung oder eine unbewusste Lücke markieren.
+
+---
+
+### **4. Synthese und Perspektive**
+Letzten Endes bezieht sich die Abwägung darauf, **was wir als unabwendbares Ideal akzeptieren** und **was realistisch umsetzbar bleibt:**
+
+- **Für die Naturrechtrahmen:** Eine universelle Ethik, die keine Einschränkungen zulässt, könnte als höchstes moralisches Ideal stehen.
+- **Für Artikel I BVerf. n.F.:** Eine pragmatische und humane Adaption, die den Selbstschutz und die Realität des Handelns wahrt, ohne das Prinzip zu schwächen.
+
+---
+
+Welche Richtung möchtest Du vorschlagen oder vertiefen? Sollten die Naturrechtrahmen Nr. 1 ergänzt oder bewusst unverändert bleiben? 🌿
+
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251126_KI-Bundesverfassungsentwurf.md
