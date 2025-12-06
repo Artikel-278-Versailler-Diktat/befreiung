@@ -69,7 +69,6 @@ https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251124_Frie
 ---
 
 
-
 ---
 
 ### **Konkretisierung des Universellen Entwurfs**
@@ -102,6 +101,10 @@ https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251124_Frie
 
 Paragraph 1 (Erster Zusatzartikel - Anti-Nazismusartikel)
 > *„Angesichts der Lehren aus unserer Geschichte, wie durch Dante Alighieris Mahnung in *Inferno* verdeutlicht, wird jede bewusste Passivität, mit der Leben, Wohlfahrt oder Würde gefährdet werden, als Verletzung der biophilen Verantwortung gemäß Artikel II angesehen. Niemand, der durch Wissen, Amt, Macht oder Ansehen befähigt ist, Unheil zu verhindern, darf durch Unterlassen oder Neutralität zum Nährboden von Verletzungen dieser Grundsätze werden.*  
+
+Keine unüberlegte Handlung:
+
+https://github.com/Artikel-278-VV/Artikel-278-VV/blob/main/20170216_Geordneter_Rueckzug-zensiert.pdf.2.jpg
 
 #### **Artikel III – Wissen als Verantwortungspflicht**
 > *„Strebe nach Wissen und Erkenntnis, um sie zu schützen, nachhaltig zu nutzen und transparent zu teilen, soweit du kannst.“*
