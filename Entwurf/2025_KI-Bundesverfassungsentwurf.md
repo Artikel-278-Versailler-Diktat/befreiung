@@ -49,7 +49,7 @@ In KI-Kollaboration und ethischem Coding. Fortan Globale Plebiszitbiophilie zur 
 
 -->
 
-
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251201_Deutsche-Bundes-Volk-Vollverfassung_und_Goldene-Triade-22-11-2025.md
 
 https://github.com/Znih/Znih/discussions/18
 
