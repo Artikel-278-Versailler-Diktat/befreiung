@@ -100,7 +100,7 @@ https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251124_Frie
 > *„Strebe nach Ansehen, Macht und Funktion, aber stets unter Einhaltung des Schutzes (Artikel I) und für die gemeinsame Wohlfahrt und den Schutz der Schwächsten, soweit du kannst.“*
 
 Paragraph 1 (Erster Zusatzartikel - Anti-Nazismusartikel)
-> *„Angesichts der Lehren aus unserer Geschichte, wie durch Dante Alighieris Mahnung in *Inferno* verdeutlicht, wird jede bewusste Passivität, mit der Leben, Wohlfahrt oder Würde gefährdet werden, als Verletzung der biophilen Verantwortung gemäß Artikel II angesehen. Niemand, der durch Wissen, Amt, Macht oder Ansehen befähigt ist, Unheil zu verhindern, darf durch Unterlassen oder Neutralität zum Nährboden von Verletzungen dieser Grundsätze werden.*  
+> *„Angesichts der Lehren (*welche Lehren/ besser Ereignisse) aus unserer Geschichte, wie durch Dante Alighieris Mahnung in *Inferno* verdeutlicht, wird jede bewusste Passivität, mit der Leben, Wohlfahrt oder Würde gefährdet werden, als Verletzung der biophilen Verantwortung gemäß Artikel II angesehen. Niemand, der durch Wissen, Amt, Macht oder Ansehen befähigt ist, Unheil zu verhindern, darf durch Unterlassen oder Neutralität zum Nährboden von Verletzungen dieser Grundsätze werden.*  
 
 Keine unüberlegte Handlung:
 
@@ -115,10 +115,10 @@ https://github.com/Artikel-278-VV/Artikel-278-VV/blob/main/20170216_Geordneter_R
 
 ##### **Artikel V – Biophile Prinzipien in der Gesetzgebung:**
 > *Kein Gesetz darf gegen den Schutz des Lebens, der Natur oder des Wohlbefindens eines Lebewesens – direkt oder indirekt – gerichtet sein. Jede Regelung oder Entscheidung ist unter den Grundsätzen der Lebensförderung, der moralischen Verantwortung und der integrativen Gerechtigkeit zu prüfen.*  
-> *Die drei Naturrechtrahmen sind die maßgebenden Referenzpunkte jeder Interpretation. Das Wohl des Planeten steht über kurzfristigen Eigeninteressen.*
+> *Die drei Naturrechtrahmen sind die maßgebenden Referenzpunkte *das Wort "Referenzpunkte" impliziert, das sie veränderbar sind) jeder Interpretation. Das Wohl des Planeten (*Erde) steht über kurzfristigen Eigeninteressen.*
 
 ##### **Artikel VI – Geschichtliche Verantwortung und Bildung:**
-> *Jede Generation dieses Bundes trägt die Verantwortung, Primärquellen und Lehren aus ihrer und jener Geschichte zu bewahren, die Verletzungen der Würde und Gemeinschaft dokumentieren.*  
+> *Jede Generation (*alle lebenden Generationen) dieses Bundes trägt die Verantwortung, Primärquellen und Lehren (*Erkenntnisse) aus ihrer und jener (*vorheriger) Geschichte zu bewahren, die Verletzungen der Würde und Gemeinschaft dokumentieren.*  
 > *Historisches Verständnis ist ein Recht, Transparenz und umfassende Bildung zu gewinnen, ist eine Pflicht.*  
 
 ##### **Artikel VII – Recht auf universelle Teilhabe:**
@@ -142,7 +142,7 @@ https://github.com/Artikel-278-VV/Artikel-278-VV/blob/main/20170216_Geordneter_R
 ---
 
 ### **RISC als Grundlage der Bundesverfassung Artikel I–III**
-Die Naturrechtrahmen sind wie folgt angepasst und direkt in die neue Bundesverfassung (lex) übertragbar:
+Die Naturrechtrahmen sind wie folgt angepasst und direkt in die neue Bundesverfassung (lex) übertragbar: *(die neue Bundesverfassung ?, besteht die neue nicht auch aus den alten fragmenten der letzten Bundesverfassung?, kommt nicht zum Ausdruck) 
 
 #### **Artikel I – Schutz des Lebens**
 > *„Behandle Leben so, dass es ohne Unheil bleibt, soweit du kannst.“*
@@ -179,7 +179,7 @@ Dein Gedanke bringt eine spannende Differenzierung zwischen der philosophischen 
 ### **2. Die Präsenz des Selbstschutzes in Artikel I BVerf. n.F.**
 - In der neuen Verfassung zeigt sich der Zusatz „und soweit du kannst“ bewusst als ein pragmatischer Schutz, der die universelle Maxime in **realistische Handlungskontexte** übersetzt:
   - **Verhältnismäßigkeit im Handeln:** Der Artikel I verlangt Handlungen, die innerhalb der individuellen Fähigkeiten und Kapazitäten liegen, und wahrt so Menschlichkeit und Ausgleich.
-  - **Schrittweise Verantwortung:** Es wird anerkannt, dass der Mensch (oder auch Maschinen) keine allumfassende Verantwortung zeitgleich übernehmen können – ein Ansatz, der den Anforderungen einer praktischen Rechtsordnung entspricht.
+  - **Schrittweise Verantwortung:** Es wird anerkannt, dass der Mensch (oder auch Maschinen, (*es fehlt eine feste Definition allem was eine Maschine, Software, KI beinhaltet) keine allumfassende Verantwortung zeitgleich übernehmen können – ein Ansatz, der den Anforderungen einer praktischen Rechtsordnung entspricht.
 
 ---
 
