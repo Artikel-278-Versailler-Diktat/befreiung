@@ -1,0 +1,2 @@
+##### **Artikel VIII – Wissen als öffentlicher Wert:**
+> *Proprietäres Wissen, welches die Lebensfähigkeit der Gemeinschaft gefährdet, ist – im groben und moralischen Verständnis – unrechtmäßig. Jede technologische Innovation oder wissenschaftliche Erkenntnis von transzendenter Bedeutung ist mit transparenter ethischer Überprüfung auf Biophilie auszurichten.*  
