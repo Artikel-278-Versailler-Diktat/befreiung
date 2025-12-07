@@ -1,0 +1,2 @@
+##### **Artikel VII – Recht auf universelle Teilhabe:**
+> *Jeder Mensch hat das Recht, zu den Prinzipien dieser Verfassung beizutragen oder auf sie zuzugreifen – unabhängig von Herkunft, Staatsangehörigkeit oder Zugehörigkeit. Universelle Zugänglichkeit ist ein biophiles Prinzip.*  
