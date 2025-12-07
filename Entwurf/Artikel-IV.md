@@ -1,4 +1,8 @@
+Verfassungsrecht-Kontinuität und Wiederherstellung Bundesrecht, unabhängig vom späteren Regierungssystem. Vorschlag die Präambel und die ersten Drei Artikel der alten Bundesverfassung von 1871 zusammengefasst oder mit Zusatzparagraph assimilieren, mithin also die Rechtnachfolge des ewigen Bundes antreten und das Dritte Reich zur Analyse an die Universitäten verweisen.
+
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251130_Verfassungsrechtkontinuitaet-28-10-1918.md
+
+Bundesgebiet kompatibel zu einem Europa des souveränen Vaterländer in Frieden oder als Entwurf für alle ohne einen zusätzlichen Bismarck Deckel, der ohnehin für Europa gedacht war. Der ewige Bund wurde nur "Deutscher Bund" genannt. Der Bund selbst enthält keine völkischen Einschränkungen. Der "ewige Bund" Europa mit Rußland und Kiew als Drehscheibe des Friedens durch Handel und Austausch.
 
 ---
 
