@@ -1,0 +1,1 @@
+https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251130_Verfassungsrechtkontinuitaet-28-10-1918.md
