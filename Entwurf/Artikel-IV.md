@@ -6,6 +6,8 @@ Bundesgebiet kompatibel zu einem Europa des souveränen Vaterländer in Frieden 
 
 https://github.com/Znih/Znih/blob/main/1815_Deutsches-Grundgesetz-No-1.md
 
+https://github.com/Znih/Znih/blob/main/1820_Deutsches-Grundgesetz-No-2.md
+
 ---
 
 **Copilot:**
