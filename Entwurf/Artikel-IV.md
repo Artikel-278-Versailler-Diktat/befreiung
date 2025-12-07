@@ -1,5 +1,15 @@
 Verfassungsrecht-Kontinuität und Wiederherstellung Bundesrecht, unabhängig vom späteren Regierungssystem. Vorschlag die Präambel und die ersten Drei Artikel der alten Bundesverfassung von 1871 zusammengefasst oder mit Zusatzparagraph assimilieren, mithin also die Rechtnachfolge des ewigen Bundes antreten und das Dritte Reich zur Analyse an die Universitäten verweisen.
 
+>Erlaß v. 28.10.1918:
+
+>„Eurer Großherzoglichen Hoheit lasse ich in der Anlage den mir zur Ausfertigung vorgelegten Gesehentwurf zur Abänderung der Reichsverfassung und der Geseye, betreffend die Stellvertretung des Reichskanzlers vom 17. März 1878, zur als-baldigen Veröffentlichung wieder zugehen. Ich habe den Wunsch, bei diesem für die weitere Geschichte des deutschen Volkes so bedeutungsvollen Schritt zum Aus-druck zu bringen, was mich bewegt. Vorbereitet durch eine Reihe von Regierungs-akten, tritt jeht eine neue Ordnung in Kraft, welche grundlegende Rechte von der Person des Kaisers auf das Volk überträgt. Damit wird eine Periode abge-schlossen, die vor den Augen künftiger Geschlechter in Ehren bestehen wird. Troh aller Kämpfe zwischen überkommenen Gewalten und emporstrebenden Kräften hat sie unserem Volke jene gewaltige Entwicklung ermöglicht, die sich in den wunder-baren Leistungen dieses Krieges unvergänglich offenbart. In den furchtbaren Stürmen der vier Kriegsjahre aber sind alte Formen zerbrochen, nicht um Trümmer zu hinterlassen, sondern um neuen Lebensgestaltungen Play zu machen. Nach dem Vollbringen dieser Zeit hat das deutsche Volk den Anspruch, daß ihm kein Recht vorenthalten wird, das eine freie und glückliche Zukunft verbürgt. Dieser Überzeugung verdanken die jeht vom Reichstag angenommenen und erweiterten Vorlagen der verbündeten Regierungen ihre Entstehung. Ich aber trete diesen Beschlüssen der Volksvertretung mit meinen hohen Verbündeten bei in dem festen Willen, was an mir liegt, an ihrer vollen Auswirkung mitzuarbeiten, über-zeugt, daß ich damit dem Wohle des deutschen Volkes diene. Das Kaiseramt ist Dienst am Volke.
+
+>So möge die Neuordnung alle guten Kräfte freimachen, deren unser Volk be darf, um die schweren Prüfungen zu bestehen, die über das Reich verhängt sind, und aus dem Dunkel der Gegenwart mit festem Schritt eine helle Zukunft zu gewinnen.
+
+>Berlin, den 28. Oktober 1918.
+
+>Wilhelm I. R."
+
 https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251130_Verfassungsrechtkontinuitaet-28-10-1918.md
 
 Bundesgebiet kompatibel zu einem Europa des souveränen Vaterländer in Frieden oder als Entwurf für alle ohne einen zusätzlichen Bismarck Deckel, der ohnehin für Europa gedacht war. Der ewige Bund wurde nur "Deutscher Bund" genannt. Der Bund selbst enthält keine völkischen Einschränkungen. Der "ewige Bund" Europa mit Rußland und Kiew als Drehscheibe des Friedens durch Handel und Austausch.
