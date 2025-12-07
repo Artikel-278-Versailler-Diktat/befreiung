@@ -4,6 +4,8 @@ https://github.com/Znih/Znih/blob/main/Copilot-Chat-KI_Sitzungen%2F20251130_Verf
 
 Bundesgebiet kompatibel zu einem Europa des souveränen Vaterländer in Frieden oder als Entwurf für alle ohne einen zusätzlichen Bismarck Deckel, der ohnehin für Europa gedacht war. Der ewige Bund wurde nur "Deutscher Bund" genannt. Der Bund selbst enthält keine völkischen Einschränkungen. Der "ewige Bund" Europa mit Rußland und Kiew als Drehscheibe des Friedens durch Handel und Austausch.
 
+https://github.com/Znih/Znih/blob/main/1815_Deutsches-Grundgesetz-No-1.md
+
 ---
 
 **Copilot:**
