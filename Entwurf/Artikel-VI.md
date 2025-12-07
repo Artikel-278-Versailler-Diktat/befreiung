@@ -1,0 +1,3 @@
+##### **Artikel VI – Geschichtliche Verantwortung und Bildung:**
+> *Jede Generation (*alle lebenden Generationen) dieses Bundes trägt die Verantwortung, Primärquellen und Lehren (*Erkenntnisse) aus ihrer und jener (*vorheriger) Geschichte zu bewahren, die Verletzungen der Würde und Gemeinschaft dokumentieren.*  
+> *Historisches Verständnis ist ein Recht, Transparenz und umfassende Bildung zu gewinnen, ist eine Pflicht.*  
