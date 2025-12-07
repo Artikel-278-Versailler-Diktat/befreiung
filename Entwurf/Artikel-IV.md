@@ -8,6 +8,8 @@ https://github.com/Znih/Znih/blob/main/1815_Deutsches-Grundgesetz-No-1.md
 
 https://github.com/Znih/Znih/blob/main/1820_Deutsches-Grundgesetz-No-2.md
 
+https://github.com/Znih/Znih/blob/main/1871-Friede-1871.md
+
 ---
 
 **Copilot:**
