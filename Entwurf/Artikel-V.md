@@ -1,3 +1,9 @@
 ##### **Artikel V – Biophile Prinzipien in der Gesetzgebung:**
 > *Kein Gesetz darf gegen den Schutz des Lebens, der Natur oder des Wohlbefindens eines Lebewesens – direkt oder indirekt – gerichtet sein. Jede Regelung oder Entscheidung ist unter den Grundsätzen der Lebensförderung, der moralischen Verantwortung und der integrativen Gerechtigkeit zu prüfen.*  
 > *Die drei Naturrechtrahmen sind die maßgebenden Referenzpunkte jeder Interpretation. Das Wohl des Planeten steht über kurzfristigen Eigeninteressen.*
+
+---
+
+>"des Wohlbefindens eines Lebewesens"
+
+Copilot meint es zu gut?!
