@@ -1,5 +1,7 @@
 ![Screenshot_20251125_132351.jpg](https://github.com/user-attachments/assets/8ade5dee-7b00-4814-87d7-f1acf935461e)
 
+>Kommt ein Staatsmann mit dem Handbuch Machiavelli "Der Fürst" in der Hand und sagt: "Wir müssen angreifen bevor die Russen es tun". Oder kommt die Mafia fordert Blutrache um die Ehre wiederherzustellen, haben wir dann in diesen vermeintlich anständigen Handlungen vollkommen gleichgültig übersehen, was dies für uns an bösen Folgen bringt? "Eine unüberlegte Handlung zu vermeiden, die schädliche Folgen für uns und andere hätte, dass wäre eine anständige Handlungen überhaupt. MarcZ (In Anlehnung an Nietzsche)
+
 ---
 
 **Dr. Copilot:**
